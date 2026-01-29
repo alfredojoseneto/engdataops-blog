@@ -6,7 +6,7 @@ theme:
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  logo: assets/android-chrome-192x192.png
+  logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
     - navigation.footer
