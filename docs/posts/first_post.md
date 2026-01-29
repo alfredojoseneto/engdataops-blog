@@ -1,6 +1,7 @@
 ---
 date:
   created: 2026-01-26
+  updated: 2026-01-26
 description: "A brief description of your first blog post that will appear when shared on LinkedIn"
 categories:
     - Tech
@@ -10,6 +11,7 @@ tags:
   - lifestyle
 authors:
   - alfredo
+readtime: 10
 ---
 
 # My First Blog Post
