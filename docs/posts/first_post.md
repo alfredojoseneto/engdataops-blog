@@ -11,7 +11,7 @@ tags:
   - lifestyle
 authors:
   - alfredo
-readtime: 10
+# readtime: 10
 ---
 
 # My First Blog Post
@@ -23,6 +23,8 @@ This is the text for my firts blog post.
 
 All the text here appears in the blog post.
 
+
+### Example
 
 ```py title="scantree.py"
 def scantree(path):
