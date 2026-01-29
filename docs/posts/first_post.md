@@ -22,3 +22,13 @@ This is the text for my firts blog post.
 <!-- more -->
 
 All the text here appears in the blog post.
+
+
+```py title="scantree.py"
+def scantree(path):
+    for entry in os.scandir(path):
+      if entry.isdir():
+          yield from scantree(entry.path)
+      else:
+          entry
+```
