@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2026-01-26
+  created: 2026-01-26 00:00:00
 description: "A brief description of your first blog post that will appear when shared on LinkedIn"
 categories:
     - Tech
