@@ -41,6 +41,8 @@ extra:
   social:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/alfredojoseneto
+    - icon: fontawesome/brands/github
+      link: https://github.com/alfredojoseneto
 
 hooks:
   - hooks/socialmedia.py
